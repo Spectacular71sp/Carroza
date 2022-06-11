@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:8:5-46:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3be17f4df26407d8ffb919c89197967e\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3be17f4df26407d8ffb919c89197967e\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\283600abd4a7a90c66ae13b69959cf91\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\283600abd4a7a90c66ae13b69959cf91\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3be17f4df26407d8ffb919c89197967e\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\ebbfb4897becf5d1865bc0d026f7f6cc\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0650e52533bbafb4ff1379125eb54cf8\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1db5b79fb6411f65de7c92e6b2bbd8e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\5ec02aa1568270f5c3779ab68d4a9a56\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1f5527c436299c6e8aa11959fe179967\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\af46a8bce4f48782118ed690ca0db522\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3be17f4df26407d8ffb919c89197967e\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\5dd786a554886052963ada219945da87\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\9f3d04cf4a3e32d1e9080a29c697d17b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\eb127501a6894b09c8b0bf28e5a56b0e\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\40bce2a9e2c89390d8c5f53477fd1746\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\073283ef23c6dfd0c27eace328744e7b\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\ae356dfd0e2701029c85b0c6f1979234\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\283600abd4a7a90c66ae13b69959cf91\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\eb85ad3a104c254af5d979875f2beddd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\762907c63e3f435e320be9f05cdb990d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\ebbfb4897becf5d1865bc0d026f7f6cc\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\ebbfb4897becf5d1865bc0d026f7f6cc\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0650e52533bbafb4ff1379125eb54cf8\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0650e52533bbafb4ff1379125eb54cf8\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1db5b79fb6411f65de7c92e6b2bbd8e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1db5b79fb6411f65de7c92e6b2bbd8e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\5ec02aa1568270f5c3779ab68d4a9a56\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\5ec02aa1568270f5c3779ab68d4a9a56\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1f5527c436299c6e8aa11959fe179967\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1f5527c436299c6e8aa11959fe179967\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\af46a8bce4f48782118ed690ca0db522\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\af46a8bce4f48782118ed690ca0db522\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3be17f4df26407d8ffb919c89197967e\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3be17f4df26407d8ffb919c89197967e\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\5dd786a554886052963ada219945da87\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\5dd786a554886052963ada219945da87\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\9f3d04cf4a3e32d1e9080a29c697d17b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\9f3d04cf4a3e32d1e9080a29c697d17b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\eb127501a6894b09c8b0bf28e5a56b0e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\eb127501a6894b09c8b0bf28e5a56b0e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\40bce2a9e2c89390d8c5f53477fd1746\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\40bce2a9e2c89390d8c5f53477fd1746\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\073283ef23c6dfd0c27eace328744e7b\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\073283ef23c6dfd0c27eace328744e7b\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\ae356dfd0e2701029c85b0c6f1979234\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\ae356dfd0e2701029c85b0c6f1979234\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\283600abd4a7a90c66ae13b69959cf91\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\283600abd4a7a90c66ae13b69959cf91\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\eb85ad3a104c254af5d979875f2beddd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\eb85ad3a104c254af5d979875f2beddd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\762907c63e3f435e320be9f05cdb990d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\762907c63e3f435e320be9f05cdb990d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\DELL\Downloads\TruckPort\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\256c2623b2af3527da021c42588bece6\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
