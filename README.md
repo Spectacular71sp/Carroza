@@ -2,7 +2,7 @@
 ***
 # Built with dart and flutter framework
 # Android Studio Enviroment
-# Fork to contribute
+# Fork to contribute to repo
 
 # All rights reserved.
 ***
